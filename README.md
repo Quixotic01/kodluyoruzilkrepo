@@ -29,3 +29,6 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 - kodluyoruz-frontend-101-egitimi projeye forklanacak
 
 ```
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
