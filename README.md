@@ -22,7 +22,7 @@ code .
 ## Contributing
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 
-##To-Do
+## To-Do
 ```
 - projeyi gösteren bir resim dosyası eklenecek
 
