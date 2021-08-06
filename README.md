@@ -1,6 +1,8 @@
 # kodluyoruzilkrepo
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 
+![github](img/vscode_060820211351.png)
+
 ## Installation
 
 Öncelikle projeyi clonelayın.
@@ -13,8 +15,8 @@ git clone https://github.com/Quixotic01/kodluyoruzilkrepo.git
 
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
-Linux için:
-```linux
+Linux ve Windows için:
+```
 cd kodluyoruzilkrepo
 code .
 ```
@@ -23,12 +25,6 @@ code .
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 
 ## To-Do
-```
-- projeyi gösteren bir resim dosyası eklenecek
-
-- kodluyoruz-frontend-101-egitimi projeye forklanacak
-
-```
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
